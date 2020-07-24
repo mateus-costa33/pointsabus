@@ -4,19 +4,22 @@
             "id": 1,
             "title": "Igreja São Francisco",
             "link": "https://roteiro-geoturistico-jp--ssantinho.repl.co/centro-cultural.html",
-            "busaccess": "O ônibus adequados para chegar neste local: todos que vão para o Parque Solon de Lucena, a Lagoa. Quando chegar lá utilize o Google Maps para chegar no local mais rápido.",
+            "busaccess": "Os ônibus adequados para chegar neste local: todos que vão para o Parque Solon de Lucena, a Lagoa. Quando chegar lá utilize o Google Maps para chegar no local mais rápido.",
             "linkmap": "https://www.google.com.br/maps/place/Centro+Cultural+S%C3%A3o+Francisco/@-7.1149074,-34.8855109,17z/data=!3m1!4b1!4m5!3m4!1s0x7acdd49465ec499:0xf01081ffe9350fa8!8m2!3d-7.1149127!4d-34.8833222"
         },
         {
             "id": 2,
             "title":"Palácio da Redenção",
             "link": "https://roteiro-geoturistico-jp--ssantinho.repl.co/praca_red.html",
-            "busaccess": "O ônibus adequados para chegar neste local: 105 CIDADE DOS FUNCIONÁRIOS 107 JOSE AMÉRICO 116 COLINAS DO SUL 5106 CONDE VIA BR-101 0104 BAIRRO DAS INDÚSTRIAS 0110 JARDIM PLANALTO 0115 DISTRITO INDUSTRIAL / ANTÁRTICA 0118 PARATIBE / CRUZ DAS ARMAS. Pegando um desses ônibus você desce nas primeira parada da Rua das Trincheiras após passar pela Praça Venáncio Neiva. Com isso, vc irá voltar em direção da praça e siga direto.",
+            "busaccess": "Os ônibus adequados para chegar neste local: 105 CIDADE DOS FUNCIONÁRIOS 107 JOSE AMÉRICO 116 COLINAS DO SUL 5106 CONDE VIA BR-101 0104 BAIRRO DAS INDÚSTRIAS 0110 JARDIM PLANALTO 0115 DISTRITO INDUSTRIAL / ANTÁRTICA 0118 PARATIBE / CRUZ DAS ARMAS. Pegando um desses ônibus você desce nas primeira parada da Rua das Trincheiras após passar pela Praça Venáncio Neiva. Com isso, vc irá voltar em direção da praça e siga direto.",
             "linkmap": "https://www.google.com.br/maps/place/Pal%C3%A1cio+da+Reden%C3%A7%C3%A3o/@-7.121655,-34.8865708,17z/data=!3m1!4b1!4m5!3m4!1s0x7ace80aaf08e6eb:0x537823c545e8f7c0!8m2!3d-7.1216603!4d-34.8843821"
         },
         {
             "id": 3,
-            "title": "Igreja Nossa Senhora do Carmo"
+            "title": "Igreja Nossa Senhora do Carmo",
+            "link": "https://roteiro-geoturistico-jp--ssantinho.repl.co/domadauto_car.html",
+            "busaccess": "Os ônibus adequados para chegar neste local: todos que vão para o Parque Solon de Lucena, a Lagoa. Quando chegar lá utilize o Google Maps para chegar no local mais rápido.",
+            "linkmap": "https://www.google.com/search?q=igreja%20nossa%20senhora%20do%20carmo&oq=igreja+nossa+&aqs=chrome.1.69i57j0l5j69i61l2.3799j0j7&sourceid=chrome&ie=UTF-8&npsic=0&rflfq=1&rlha=0&rllag=-7152290,-34876091,4066&tbm=lcl&rldimm=15914363096062446955&lqi=Ch1pZ3JlamEgbm9zc2Egc2VuaG9yYSBkbyBjYXJtb0jFrPXl1YKAgAhaUgodaWdyZWphIG5vc3NhIHNlbmhvcmEgZG8gY2FybW8QABABEAIQAxAEGAAYARgCGAMYBCIdaWdyZWphIG5vc3NhIHNlbmhvcmEgZG8gY2FybW8&ved=2ahUKEwiSpPu0yeTqAhUII7kGHVveBN0QvS4wAHoECAwQIQ&rldoc=1&tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rlst=f#rlfi=hd:;si:,-7.118826330543971,-34.88377748671608;mv:[[-7.117319900623267,-34.88215206805305],[-7.120556323467232,-34.88762377444343],null,[-7.118938114899244,-34.88488792124824],18]"
         }
     ]
 }
